@@ -9,8 +9,8 @@ export default function Footer() {
           <div className="footer-list">
             <div className="footer-item">
               <p className="footer-subtext">
-                HOPE is being able to see that there is LIGHT despite all of the
-                darkness.
+               O‘zbekiston Respublikasi, Samarqand viloyati, Samarqand shahri,
+                Beruniy ko‘chasi
               </p>
               <p className="footer-text">Desmond Tutu</p>
             </div>
