@@ -10,7 +10,7 @@ export default function Footer() {
             <div className="footer-item">
               <p className="footer-subtext">
                O‘zbekiston Respublikasi, Samarqand viloyati, Samarqand shahri,
-                Beruniy ko‘chasi
+                Buyuk Ipak yo'li ko‘chasi
               </p>
               <p className="footer-text">Desmond Tutu</p>
             </div>
